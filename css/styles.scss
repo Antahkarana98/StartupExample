@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background: #fff;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+@import "header";
+@import "main";
+@import "footer";
+@import "responsive";
